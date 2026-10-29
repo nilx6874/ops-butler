@@ -8,9 +8,9 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/HelixThinker/ops-butler/new-ops-butler/internal/database"
-	"github.com/HelixThinker/ops-butler/new-ops-butler/internal/webui"
-	"github.com/HelixThinker/ops-butler/new-ops-butler/pkg/logger"
+	"github.com/nilx6874/ops-butler/new-ops-butler/internal/database"
+	"github.com/nilx6874/ops-butler/new-ops-butler/internal/webui"
+	"github.com/nilx6874/ops-butler/new-ops-butler/pkg/logger"
 	"go.uber.org/zap"
 )
 

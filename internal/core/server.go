@@ -10,9 +10,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/HelixThinker/ops-butler/new-ops-butler/internal/database"
-	"github.com/HelixThinker/ops-butler/new-ops-butler/internal/models"
-	slackClient "github.com/HelixThinker/ops-butler/new-ops-butler/internal/slack"
+	"github.com/nilx6874/ops-butler/new-ops-butler/internal/database"
+	"github.com/nilx6874/ops-butler/new-ops-butler/internal/models"
+	slackClient "github.com/nilx6874/ops-butler/new-ops-butler/internal/slack"
 	"github.com/slack-go/slack"
 	"go.uber.org/zap"
 )
