@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/HelixThinker/ops-butler/new-ops-butler/internal/models"
+	"github.com/nilx6874/ops-butler/new-ops-butler/internal/models"
 	"github.com/slack-go/slack"
 	"go.uber.org/zap"
 )

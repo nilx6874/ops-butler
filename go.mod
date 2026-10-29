@@ -1,4 +1,4 @@
-module github.com/HelixThinker/ops-butler/new-ops-butler
+module github.com/nilx6874/ops-butler/new-ops-butler
 
 go 1.21
 
